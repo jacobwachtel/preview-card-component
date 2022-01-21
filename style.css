@@ -53,6 +53,7 @@ body {
 .card__heading {
     padding: 6rem;
     padding-right: 8rem;
+    
 }
 
 .heading-primary {
@@ -108,5 +109,7 @@ body {
 
 .attribution {
     position: absolute;
-    bottom: 0;
+    bottom: 5%;
+    font-size: 1.1rem;
+    text-transform: uppercase;
 }
